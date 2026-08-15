@@ -1,5 +1,5 @@
 base_price = 15
-age = 21
+age = 19
 seat_type = 'Gold'
 show_time = 'Evening'
 
