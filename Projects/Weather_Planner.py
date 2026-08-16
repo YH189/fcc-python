@@ -1,6 +1,6 @@
-distance_mi = 0
+distance_mi = 12
 is_raining = True
-has_bike = True
+has_bike = False
 has_car = True
 has_ride_share_app = False
 
