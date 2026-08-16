@@ -1,8 +1,8 @@
 distance_mi = 12
 is_raining = True
-has_bike = False
-has_car = True
-has_ride_share_app = False
+has_bike = True
+has_car = False
+has_ride_share_app = True
 
 if(not distance_mi):
     print(False)
