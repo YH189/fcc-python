@@ -1,4 +1,4 @@
-# freecodecamp-python
+# Freecodecamp-python
 
 Python fundamentals to project-based practice, developed while progressing through the freeCodeCamp curriculum.
 
