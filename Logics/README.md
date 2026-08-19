@@ -25,4 +25,4 @@ depends on another. File names describe the problem being solved.
 - Build muscle memory for clean, functional Python
 - Serve as a personal reference for common patterns and techniques
 
-This folder will continue to grow as more scripts are added over time.
+
