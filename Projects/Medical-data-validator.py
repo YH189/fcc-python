@@ -33,3 +33,11 @@ medical_records = [
     }
 ]
 
+def validate(data):
+    is_sequence = isinstance(data, (list, tuple))
+
+    if not is_sequence:
+        print('Invalid format: expected a list or tuple.')
+        return False
+
+    
